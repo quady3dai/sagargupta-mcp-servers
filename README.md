@@ -229,7 +229,7 @@ An MCP server runs as a trusted extension of your assistant, with your files and
 | [MarkItDown MCP](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) | Convert PDF, Office, HTML and audio files to Markdown for LLMs                 | Python     |
 | [Meilisearch MCP](https://github.com/meilisearch/meilisearch-mcp)                           | Official Meilisearch index server                                              | Python     |
 | [Perplexity MCP](https://github.com/perplexityai/modelcontextprotocol)                      | Official Perplexity search API                                                 | TypeScript |
-| [Recall Kitchen](https://github.com/Recall-Kitchen/rk-mcp)                                 | Search U.S. CPSC, FDA, USDA and NHTSA product recalls by keyword or UPC        | Remote     |
+| [Recall Kitchen](https://github.com/Recall-Kitchen/rk-mcp)                                  | Search U.S. CPSC, FDA, USDA and NHTSA product recalls by keyword or UPC        | Remote     |
 | [Ref MCP](https://github.com/ref-tools/ref-tools-mcp)                                       | Token-efficient search over public and private technical docs                  | TypeScript |
 | [ReMCP](https://github.com/getremcp/remcp)                                                  | OAuth access to paired computers; terminal, files, browser and desktop control | Remote     |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server)                      | Perfume notes, families and similar scents for 1,400+ perfumes, no API key     | JavaScript |
@@ -303,7 +303,7 @@ An MCP server runs as a trusted extension of your assistant, with your files and
 | [Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | FMP market data and fundamentals                                              | TypeScript |
 | [Invoice MCP](https://github.com/theluckystrike/mcp-invoice-generator)                         | Create PDF invoices with VAT lines, sequential numbering and overdue tracking | JavaScript |
 | [Invompt](https://github.com/Invompt/invompt-mcp)                                              | Create and review invoices from an AI assistant                               | TypeScript |
-| [Lava](https://github.com/dustinliang666-blip/lava-mcp) | Read-only A-share news-flow heat via remote MCP/REST | TypeScript |
+| [Lava](https://github.com/dustinliang666-blip/lava-mcp)                                        | Read-only A-share news-flow heat via remote MCP/REST                          | TypeScript |
 | [Massive.com (Polygon.io) MCP](https://github.com/massive-com/mcp_massive)                     | Official Massive.com (formerly Polygon.io) market data for stocks and crypto  | Python     |
 | [PayPal Agent Toolkit](https://github.com/paypal/agent-toolkit)                                | Official PayPal toolkit with an MCP server for payments and invoicing         | TypeScript |
 | [QuickBooks MCP](https://github.com/intuit/quickbooks-online-mcp-server)                       | Official Intuit QuickBooks Online                                             | TypeScript |
